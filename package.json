@@ -1,5 +1,5 @@
 {
-  "name": "jazzcon-gatsby-demo",
+  "name": "gatsby-multiple-sources-demo",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,19 +9,18 @@
   "author": "Ray Gesualdo <ray@raygesualdo.com> (https://raygesualdo.com/)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^1.9.239",
-    "gatsby-link": "^1.6.39",
-    "gatsby-plugin-react-helmet": "^2.0.8",
-    "gatsby-plugin-react-next": "^1.0.11",
-    "gatsby-source-contentful": "^1.3.44",
-    "gatsby-source-filesystem": "^1.5.27",
+    "gatsby": "^1.9.250",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-source-contentful": "^1.3.46",
+    "gatsby-source-filesystem": "^1.5.32",
     "gatsby-source-stripe": "^1.0.1",
-    "gatsby-source-wordpress": "^2.0.69",
-    "gatsby-transformer-remark": "^1.7.37",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "gatsby-source-wordpress": "^2.0.79",
+    "gatsby-transformer-remark": "^1.7.40",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
     "react-fontawesome": "^1.6.1",
     "react-helmet": "^5.2.0",
-    "reactstrap": "^5.0.0-beta.3"
+    "reactstrap": "^5.0.0"
   }
 }
